@@ -42,7 +42,7 @@
     "icon": {
       "type": "effect",
       "data": {
-        "effect": "herbalbrews:fortune"
+        "effect": "minecraft:luck"
       }
     },
     "rewards": [
