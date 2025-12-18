@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "slskills",
+  "version": "1.0",
+  "name": "Sunlit Skills",
+  "description": "",
+  "authors": ["antthLuca"],
+  "license": "GNU GENERAL PUBLIC LICENSE - v3",
+  "environment": "*"
+}

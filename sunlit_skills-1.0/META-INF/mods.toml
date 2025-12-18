@@ -1,0 +1,10 @@
+modLoader = "lowcodefml"
+loaderVersion = "[1,)"
+license = "GNU GENERAL PUBLIC LICENSE - v3"
+
+[[mods]]
+modId = "slskills"
+version = "1.0"
+displayName = "Sunlit Skills"
+description = ""
+authors = "antthLuca"
