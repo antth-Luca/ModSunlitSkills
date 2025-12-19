@@ -4,9 +4,9 @@
   "icon": {
     "type": "item",
     "data": {
-      "item": "society:milk_pail"
+      "item": "milk_bucket"
     }
   },
-  "background": "meadow:textures/block/pine_planks.png",
+  "background": "textures/block/hay_bale_side.png",
   "spent_points_limit": 12
 }
